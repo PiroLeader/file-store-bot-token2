@@ -6,7 +6,7 @@ class Config(object):
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6925894836:AAFLX4dB-cmMjszC_G7mJ5GQsauFhfdJtgw")
   LUFFY_PIC = os.environ.get("LUFFY_PIC", "https://graph.org/file/1c15be412eb886ba1c8e3.jpg")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "public_file_store_ibot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002071236243"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001885156063"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.shareus.io")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "spwtACrO5uZiyFDRORTLgPRcsqL2")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5104903730"))
